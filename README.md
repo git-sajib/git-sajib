@@ -14,6 +14,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ---
 
 ### Connect with me:
+
 <a href="https://www.facebook.com/fb.sajib/">
   <img align="left" alt="Samiul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -44,9 +45,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
-
 ---
 
 [website]: https://devsajib.com
-
