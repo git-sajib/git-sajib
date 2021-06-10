@@ -6,13 +6,8 @@ A passionate self-taught Full Stack web developer and a freelance software engin
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- - 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- -💼 Any freelance work? Do reach, [email](mailto:samiul.islam.unisel@gmail.com)
+- -💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 ---
 
