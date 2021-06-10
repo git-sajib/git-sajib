@@ -13,7 +13,7 @@
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
 </div>
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 <h2 style="color:blue;text-align:center;">I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
