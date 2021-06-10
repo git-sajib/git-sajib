@@ -13,10 +13,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 <a href="https://www.facebook.com/fb.sajib/">
   <img align="left" alt="Samiul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -29,6 +25,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </a>
 
 <br />
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Languages and Tools:
 
