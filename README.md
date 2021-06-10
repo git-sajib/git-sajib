@@ -3,7 +3,7 @@
 
 <h2 align="center"> Hi there, I'm Samiul Islam Sajib 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-A passionate self-taught Full Stack web developer and a freelance software engineer. My passion for software with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙲𝙾𝙳𝙴 A passionate self-taught Full Stack web developer and a freelance software engineer. My passion for software with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
  <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="500" height="320" />
