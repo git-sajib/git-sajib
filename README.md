@@ -13,9 +13,6 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
 
-<h1 align="center">Hi there, I'm Samiul Islam [Sajib][website] 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">📱 Mobile Application developer 📱</h3>
-<h5 align="center">**What We Know Is a Drop, What We Don't Know Is An ocean !**</h5>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
