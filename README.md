@@ -11,10 +11,7 @@
 <a href="https://www.linkedin.com/in/linked-sajib/">
   <img align="left" alt="Samiul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-
-
+<br>
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
