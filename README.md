@@ -49,3 +49,5 @@ A passionate self-taught Full Stack web developer and a freelance software engin
 ---
 
 [website]: https://devsajib.com
+
+[![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-sajib)](https://github.com/git-sajib/github-readme-stats)
