@@ -54,5 +54,7 @@ A passionate self-taught Full Stack web developer and a freelance software engin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Samiul's github stats" />
 </a>
 <a href="https://github.com/git-sajib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-sajib&layout=compact&theme=material-palenight" alt="Samiul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=material-palenight" alt="Samiul's github stats" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
