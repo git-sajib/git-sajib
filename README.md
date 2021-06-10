@@ -1,8 +1,7 @@
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
-## Hi there, I'm Samiul Islam [Sajib][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Samiul Islam [Sajib][website] 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 align="center"> Web Developer 👨‍💻 </h3>
-A passionate self-taught Full Stack web and Software Developer from Malaysia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Samiul Islam](https://abhishknads.me/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
