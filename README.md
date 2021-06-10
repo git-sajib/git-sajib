@@ -11,6 +11,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+---
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -48,26 +50,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://devsajib.com
 [course]: http://vsCodeHero.com
