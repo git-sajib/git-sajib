@@ -1,4 +1,4 @@
-### Hi there, I'm Samiul Islam [Sajib][website] 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hi there, I'm Samiul Islam [Sajib][website] 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <a href="https://www.facebook.com/fb.sajib/">
   <img align="left" alt="Samiul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
