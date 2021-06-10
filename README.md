@@ -6,6 +6,8 @@ A passionate self-taught Full Stack web developer and a freelance software engin
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+ <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="500" height="320" />
+ 
 - 💼 Any freelance work? Do reach, [Email](mailto:samiul.islam.unisel@gmail.com)
 - 💬 Ask me about anything, [Here](https://github.com/git-sajib/git-sajib/issues)
 
