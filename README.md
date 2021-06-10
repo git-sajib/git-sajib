@@ -1,5 +1,5 @@
 ## Hi there, I'm Samiul Islam [Sajib][website] 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<div align="center">
 <a href="https://www.facebook.com/fb.sajib/">
   <img align="left" alt="Samiul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -11,6 +11,7 @@
 </a>
 
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
+</div>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
