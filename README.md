@@ -26,7 +26,7 @@
 <br />
 <br />
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+### 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘛𝘰𝘰𝘭𝘴:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
