@@ -20,7 +20,7 @@
 
 ### 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦:
 
-<a href="https://www.facebook.com/fb.sajib/">
+<a href="https://www.facebook.com/sajib.id/">
   <img align="left" alt="Samiul's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://twitter.com/twitt_sajib/">
