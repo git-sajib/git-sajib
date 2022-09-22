@@ -48,10 +48,10 @@
 ---
 
 <a href="https://github.com/git-sajib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&include_all_commits=true&theme=gotham" alt="Samiul's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&include_all_commits=true&theme=gotham" alt="Sajib's github stats" />
 </a>
 <a href="https://github.com/git-sajib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
 </a>
 
 
