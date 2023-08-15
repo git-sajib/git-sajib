@@ -38,7 +38,7 @@
 
 ---
 
-   <img align="left" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="310" height="170" />
+   <img align="left" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="310" height="168" />
 <a href="https://github.com/git-sajib/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
 </a>
