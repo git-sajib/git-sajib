@@ -11,7 +11,7 @@
 
 "I'm a skilled software engineer who loves designing user-friendly solutions. I enjoy collaborating on open-source projects and building strong foundations. Let's team up, write code, and create amazing things together!"
 
-  <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="360" height="229" />
+  <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="360" height="228" />
   
  - 💼 𝙰𝚗𝚢 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚠𝚘𝚛𝚔? 𝙳𝚘 𝚛𝚎𝚊𝚌𝚑, [Email](mailto:samiul.islam.unisel@gmail.com)
  - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, [Here](https://github.com/git-sajib/git-sajib/issues)
