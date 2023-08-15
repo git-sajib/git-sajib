@@ -37,7 +37,7 @@
 
 ---
 
-<a href="https://github.com/git-sajib/github-readme-stats" align="left">
+<a href="https://github.com/git-sajib/github-readme-stats" align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
 </a>
 
