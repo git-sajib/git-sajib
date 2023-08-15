@@ -6,7 +6,7 @@
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=GitHub%20Viewers&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
 ---
 
-<h2 align="center"> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐒𝐚𝐣𝐢𝐛 𝐢𝐬 𝐡𝐞𝐫𝐞 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center"> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>𝐒𝐚𝐣𝐢𝐛 𝐢𝐬 𝐡𝐞𝐫𝐞 👨‍💻</h2>
 
 
 "I'm a skilled software engineer who loves designing user-friendly solutions. I enjoy collaborating on open-source projects and building strong foundations. Let's team up, write code, and create amazing things together!"
