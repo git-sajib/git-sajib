@@ -10,7 +10,7 @@
 
 𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚜𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛. 𝙼𝚢 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚠𝚒𝚝𝚑 𝚍𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝚞𝚙 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚌𝚘𝚖𝚎 𝚝𝚛𝚞𝚎 𝚠𝚒𝚝𝚑 𝚎𝚕𝚎𝚐𝚊𝚗𝚝 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜. 𝙸 𝚝𝚊𝚔𝚎 𝚐𝚛𝚎𝚊𝚝 𝚌𝚊𝚛𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎, 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎, 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚚𝚞𝚊𝚕𝚒𝚝𝚢 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝙸 𝚋𝚞𝚒𝚕𝚍.
 
-  <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="450" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="350" height="250" />
   
  - 💼 𝙰𝚗𝚢 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚠𝚘𝚛𝚔? 𝙳𝚘 𝚛𝚎𝚊𝚌𝚑, [Email](mailto:samiul.islam.unisel@gmail.com)
  - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, [Here](https://github.com/git-sajib/git-sajib/issues)
@@ -36,7 +36,6 @@
 <br />
 
 ---
-
 
 <a href="https://github.com/git-sajib/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
