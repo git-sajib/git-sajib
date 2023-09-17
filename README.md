@@ -6,7 +6,7 @@
 [![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=GitHub%20Viewers&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
 ---
 
-<h2 align="center">👋 Hello, I'm Samiul Islam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>🚀 Web Developer | IT Expert | Problem Solver👨‍💻</h2>
+<h2 align="center">👋 Hello, I'm Samiul Islam<br>🚀 Web Developer | IT Expert | Problem Solver👨‍💻</h2>
 
 🌟 About Me:
 I am a highly skilled and results-driven web developer and IT expert with over 5 years of hands-on experience in crafting robust and innovative digital solutions. My passion for technology, coupled with a keen eye for detail, has allowed me to excel in various aspects of web development and IT.
