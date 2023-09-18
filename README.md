@@ -22,7 +22,7 @@ I'm a highly skilled and results-driven professional with over 5 years of hands-
 - IT Infrastructure Management
 - Cybersecurity
 
-🌐 Connect with Me:
+🌐 Connect with Me:<br>
 I'm always open to collaborations, networking, and sharing knowledge. Let's connect and explore the limitless possibilities of technology together.
 
 🚀 Let's code the future together! 🚀
