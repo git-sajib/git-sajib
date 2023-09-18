@@ -16,7 +16,7 @@ I am a highly skilled and results-driven web developer and IT expert with over 5
 - Front-end Development (HTML, CSS, JavaScript, React, Vue)
 - Back-end Development (Node.js, Laravel)
 - Database Management (SQL, NoSQL)
-- API Integration
+- API Integration, RESTful Api
 - Cloud Services (AWS, Azure)
 - DevOps (CI/CD, Docker, Kubernetes)
 - IT Infrastructure Management
