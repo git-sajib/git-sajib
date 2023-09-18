@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hello, I'm Samiul Islam<br>🚀 Web Developer | IT Expert | Problem Solver👨‍💻</h2>
 
 🌟 About Me:
-I am a highly skilled and results-driven web developer and IT expert with over 5 years of hands-on experience in crafting robust and innovative digital solutions. My passion for technology, coupled with a keen eye for detail, has allowed me to excel in various aspects of web development and IT.
+I'm a highly skilled and results-driven professional with over 5 years of hands-on experience in web development, IT, and digital marketing. I take pride in crafting robust and innovative digital solutions, excelling in various aspects of these fields.
 
 💼 Expertise:
 - Full Stack Web Development
