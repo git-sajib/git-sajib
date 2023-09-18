@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hello, I'm Samiul Islam<br>🚀 Web Developer | IT Expert | Problem Solver👨‍💻</h2>
 
-🌟 About Me:
+🌟 About Me:<br>
 I'm a highly skilled and results-driven professional with over 5 years of hands-on experience in web development, IT, and digital marketing. I take pride in crafting robust and innovative digital solutions, excelling in various aspects of these fields.
 
 💼 Expertise:
