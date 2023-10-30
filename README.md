@@ -7,6 +7,7 @@
 ---
 
 <h2 align="center">👋 Hello, I'm Samiul Islam</h2>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=🚀Software+Engineer;📱UI+%26+UX+Designer;👨‍💻Full+Stack+Web+Developer)](https://www.facebook.com/sajib.id)
 
 🌟 About Me:<br>
