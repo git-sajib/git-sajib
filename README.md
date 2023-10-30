@@ -7,8 +7,7 @@
 ---
 
 <h2 align="center">👋 Hello, I'm Samiul Islam</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=🚀+Software+Engineer;📱UI+%26+UX+Designer;👨‍💻Full+Stack+Web+Developer)](https://www.facebook.com/sajib.id)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=🚀+Software+Engineer;📱+UI+%26+UX+Designer;👨‍💻+Full+Stack+Web+Developer)](https://www.facebook.com/sajib.id)
 
 🌟 About Me:<br>
 I'm a highly skilled and results-driven professional with over 5 years of hands-on experience in web development, IT, and digital marketing. I take pride in crafting robust and innovative digital solutions, excelling in various aspects of these fields.
@@ -18,7 +17,7 @@ I'm a highly skilled and results-driven professional with over 5 years of hands-
 - Front-end Development (HTML, CSS, JavaScript, React, Vue)
 - Back-end Development (Node.js, Laravel)
 - Database Management (SQL, NoSQL)
-- API Integration, RESTful Api
+- API Integration, RESTful API
 - Cloud Services (AWS, Azure)
 - DevOps (CI/CD, Docker, Kubernetes)
 - IT Infrastructure Management
