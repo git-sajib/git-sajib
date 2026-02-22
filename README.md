@@ -1,3 +1,6 @@
+[![Dark Theme](https://img.shields.io/badge/Dark%20Mode-Enable-black?style=flat-square)](#)
+[![Light Theme](https://img.shields.io/badge/Light%20Mode-Enable-white?style=flat-square&labelColor=eeeeee&color=dddddd)](#)
+
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:samiul.islam.unisel@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/linked-sajib/)
 
@@ -29,8 +32,38 @@ I'm always open to collaborations, networking, and sharing knowledge. Let's conn
 
 🚀 Let's code the future together! 🚀
 
- 
-  
+---
+
+## 📊 GitHub Stats (Dark & Light Ready)
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact" />
+  </picture>
+</p>
+
+---
+
  - 💼 𝙰𝚗𝚢 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚠𝚘𝚛𝚔? 𝙳𝚘 𝚛𝚎𝚊𝚌𝚑, [Email](mailto:samiul.islam.unisel@gmail.com)
  - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, [Here](https://github.com/git-sajib/git-sajib/issues)
 
@@ -58,10 +91,7 @@ I'm always open to collaborations, networking, and sharing knowledge. Let's conn
 
 ---
 
-   <img align="left" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="310" height="168" />
+<img align="left" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="310" height="168" />
 <a href="https://github.com/git-sajib/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
 </a>
-
-
-
