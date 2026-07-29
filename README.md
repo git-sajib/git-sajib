@@ -1,9 +1,14 @@
 <div align="center">
 
-  <!-- HERO BANNER WITH PROPER LINE SPACING -->
+  <!-- HERO BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,42&height=240&section=header&text=Samiul%20Islam&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignColor=8b5cf6&descAlign=68" width="100%" alt="Header Banner" />
 
   <br />
+
+  <!-- STATUS BADGE -->
+  <img src="https://img.shields.io/badge/Status-🟢_Open_for_Full--Time_&_Contract_Roles-8b5cf6?style=for-the-badge&logoColor=white" alt="Job Status" />
+
+  <br /><br />
 
   <!-- BADGES & SOCIALS -->
   <a href="https://linkedin.com/in/linked-sajib">
@@ -15,8 +20,11 @@
   <a href="https://github.com/git-sajib">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://samiulislam-sajib.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://komarev.com/ghpvc/?username=git-sajib&style=for-the-badge&color=8b5cf6">
-    <img src="https://komarev.com/ghpvc/?username=git-sajib&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=git-sajib&style=for-the-badge&color=8b5cf6&label=VIEWS" alt="Profile Views" />
   </a>
 
 </div>
@@ -40,6 +48,23 @@ developer:
 * 🚀 Building high-performance web applications, RESTful APIs, and responsive frontends.
 * 🛠️ Experienced in Laravel, Vue.js, React, Node.js, Android Kotlin, and C#.
 * 🎯 Focus: Clean code principles, database design, and end-to-end software development.
+
+---
+
+### 🌟 Engineering Highlights
+
+- ⚡ **Scalable Architectures:** Designed & deployed RESTful APIs handling multi-tier data workflows.
+- 🎨 **UI/UX Craftsmanship:** Built modern responsive SPAs with React, Vue.js, and TailwindCSS.
+- 📱 **Mobile & Desktop Systems:** Developed cross-platform Android mobile apps with Kotlin & C# enterprise software.
+- 🔐 **Security & DevOps:** Implemented secure authentication, optimized database queries, and CI/CD pipelines.
+
+---
+
+### 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=git-sajib&theme=tokyonight&no-bg=true&no-frame=true&column=6" width="90%" alt="GitHub Trophies" />
+</div>
 
 ---
 
