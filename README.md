@@ -40,23 +40,23 @@ developer:
   name: Samiul Islam
   role: Full Stack Software Engineer
   experience: 5+ Years
-  core_stack: [PHP / Laravel, TypeScript, React, Vue, Kotlin, C#, MySQL]
+  core_stack: [PHP / Laravel, TypeScript, React, Vue, PostgreSQL, Redis, Docker, AWS]
   passions: [Full-Stack Architecture, RESTful APIs, Clean Code, UI/UX Excellence]
   location: Global / Remote
 ```
 
 * 🚀 Building high-performance web applications, RESTful APIs, and responsive frontends.
-* 🛠️ Experienced in Laravel, Vue.js, React, Node.js, Android Kotlin, and C#.
-* 🎯 Focus: Clean code principles, database design, and end-to-end software development.
+* 🛠️ Experienced in Laravel, Vue.js, React, Next.js, Node.js, Android Kotlin, and C#.
+* 🎯 Focus: Clean code principles, database optimization, and end-to-end software development.
 
 ---
 
 ### 🌟 Engineering Highlights
 
-- ⚡ **Scalable Architectures:** Designed & deployed RESTful APIs handling multi-tier data workflows.
-- 🎨 **UI/UX Craftsmanship:** Built modern responsive SPAs with React, Vue.js, and TailwindCSS.
+- ⚡ **Scalable Architectures:** Designed & deployed RESTful & GraphQL APIs handling multi-tier data workflows.
+- 🎨 **UI/UX Craftsmanship:** Built modern responsive SPAs & MPAs with React, Next.js, Vue.js, and TailwindCSS.
 - 📱 **Mobile & Desktop Systems:** Developed cross-platform Android mobile apps with Kotlin & C# enterprise software.
-- 🔐 **Security & DevOps:** Implemented secure authentication, optimized database queries, and CI/CD pipelines.
+- 🔐 **Database & Cloud DevOps:** Implemented PostgreSQL & Redis caching, optimized SQL queries, Docker, and AWS CI/CD pipelines.
 
 ---
 
@@ -65,10 +65,11 @@ developer:
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **Backend & Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-0055DA?style=flat&logo=fastapi&logoColor=white) |
-| **Databases & Mobile** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Backend & Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-0055DA?style=flat&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Mobile & Desktop** | ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) ![.NET / C#](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **DevOps, Cloud & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
@@ -134,4 +135,3 @@ developer:
 <p align="center">
   <sub>Designed with ❤️ by Samiul Islam • Built for Performance & Excellence</sub>
 </p>
-<!-- Verified Developer Profile -->
