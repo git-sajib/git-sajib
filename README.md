@@ -60,14 +60,6 @@ developer:
 
 ---
 
-### 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=git-sajib&theme=tokyonight&no-bg=true&no-frame=true&column=6" width="90%" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 💻 Tech Stack & Toolkit
 
 | Category | Technologies & Tools |
