@@ -134,3 +134,4 @@ developer:
 <p align="center">
   <sub>Designed with ❤️ by Samiul Islam • Built for Performance & Excellence</sub>
 </p>
+<!-- Verified Developer Profile -->
