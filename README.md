@@ -1,97 +1,62 @@
-[![Dark Theme](https://img.shields.io/badge/Dark%20Mode-Enable-black?style=flat-square)](#)
-[![Light Theme](https://img.shields.io/badge/Light%20Mode-Enable-white?style=flat-square&labelColor=eeeeee&color=dddddd)](#)
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:samiul.islam.unisel@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/linked-sajib/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Visits](https://komarev.com/ghpvc/?username=git-sajib&logo=GitHub&label=GitHub%20Viewers&color=336699&logoColor=white&style=flat-square)](https://github.com/git-sajib)
----
-
-<h1 align="center">👋 Hello, I'm Samiul Islam</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=🚀+Software+Engineer;📱+UI+%26+UX+Designer;👨‍💻+Full+Stack+Web+Developer)](https://www.facebook.com/sajib.id)
-
-🌟 About Me:<br>
-I'm a highly skilled and results-driven professional with over 5 years of hands-on experience in web development, IT, and digital marketing. I take pride in crafting robust and innovative digital solutions, excelling in various aspects of these fields.
-
-💼 Expertise:
-- Full Stack Web Development
-- Front-end Development (HTML, CSS, JavaScript, React, Vue)
-- Back-end Development (Node.js, Laravel)
-- Database Management (SQL, NoSQL)
-- API Integration, RESTful API
-- Cloud Services (AWS, Azure)
-- DevOps (CI/CD, Docker, Kubernetes)
-- IT Infrastructure Management
-- Cybersecurity
-
-🌐 Connect with Me:<br>
-I'm always open to collaborations, networking, and sharing knowledge. Let's connect and explore the limitless possibilities of technology together.
-
-🚀 Let's code the future together! 🚀
-
----
-
-## 📊 GitHub Stats (Dark & Light Ready)
+<h1 align="center">Hi there, I'm Samiul Islam 👋</h1>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true" />
-  </picture>
+  <strong>Full Stack Software Engineer</strong> | Crafting scalable web applications, robust backends, and high-performance digital experiences.
+</p>
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact" />
-  </picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/linked-sajib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samiul.islam.unisel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/git-sajib"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
 
 ---
 
- - 💼 𝙰𝚗𝚢 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝚠𝚘𝚛𝚔? 𝙳𝚘 𝚛𝚎𝚊𝚌𝚑, [Email](mailto:samiul.islam.unisel@gmail.com)
- - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐, [Here](https://github.com/git-sajib/git-sajib/issues)
+### 👨‍💻 About Me
+
+Experienced Software Engineer with 5+ years of hands-on experience in full-stack web development, backend engineering, and cloud infrastructure. Passionate about writing clean, maintainable code and building user-centric digital products.
+
+- 🛠️ **Focus Areas:** Full Stack Web Architectures, RESTful APIs & Cloud Services
+- 💼 **Open For:** Engineering roles, technical collaborations, and freelance projects
+- 📬 **Contact:** [samiul.islam.unisel@gmail.com](mailto:samiul.islam.unisel@gmail.com)
 
 ---
 
-### 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 𝘢𝘯𝘥 𝘛𝘰𝘰𝘭𝘴:
+### 🛠️ Tech Stack & Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+#### **Languages & Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<br />
+#### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<img align="left" alt="GIF" src="https://github.com/git-sajib/git-sajib/blob/main/code.gif" width="310" height="168" />
-<a href="https://github.com/git-sajib/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=gotham" alt="Samiul's github stats" />
-</a>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-sajib&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
