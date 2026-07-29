@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,42&height=220&section=header&text=Samiul%20Islam&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignColor=8b5cf6&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- HERO BANNER WITH PROPER LINE SPACING -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,42&height=240&section=header&text=Samiul%20Islam&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignColor=8b5cf6&descAlign=68" width="100%" alt="Header Banner" />
 
   <br />
 
@@ -32,14 +32,14 @@ developer:
   name: Samiul Islam
   role: Full Stack Software Engineer
   experience: 5+ Years
-  core_stack: [TypeScript, React, Node.js, Laravel, Python, Docker, AWS]
-  passions: [Scalable Systems, Cloud Architecture, Clean Code, UX Excellence]
+  core_stack: [PHP / Laravel, TypeScript, React, Vue, Kotlin, C#, MySQL]
+  passions: [Full-Stack Architecture, RESTful APIs, Clean Code, UI/UX Excellence]
   location: Global / Remote
 ```
 
-* 🚀 Building high-performance, resilient web applications and microservice architectures.
-* 🛠️ Architecting seamless developer tools, RESTful & GraphQL APIs, and cloud pipelines.
-* 🎯 Focus: Clean code principles, micro-frontends, and automated DevOps workflows.
+* 🚀 Building high-performance web applications, RESTful APIs, and responsive frontends.
+* 🛠️ Experienced in Laravel, Vue.js, React, Node.js, Android Kotlin, and C#.
+* 🎯 Focus: Clean code principles, database design, and end-to-end software development.
 
 ---
 
@@ -47,22 +47,22 @@ developer:
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-0055DA?style=flat&logo=fastapi&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **Languages** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Backend & Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-0055DA?style=flat&logo=fastapi&logoColor=white) |
+| **Databases & Mobile** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Repositories & Projects
 
 <div align="center">
-  <a href="https://github.com/git-sajib/Laravel_V_portfolio">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=Laravel_V_portfolio&theme=tokyonight&hide_border=true" width="49%" alt="Laravel Portfolio SPA" />
+  <a href="https://github.com/git-sajib/Laravel_X_portfolio">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=Laravel_X_portfolio&theme=tokyonight&hide_border=true" width="49%" alt="Laravel X Portfolio SPA" />
   </a>
-  <a href="https://github.com/git-sajib/mediseba-api">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=mediseba-api&theme=tokyonight&hide_border=true" width="49%" alt="MediSeba API" />
+  <a href="https://github.com/git-sajib/ecommerce-ordering-payment-system">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=ecommerce-ordering-payment-system&theme=tokyonight&hide_border=true" width="49%" alt="E-Commerce Payment System" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@ developer:
 
 <div align="center">
   <a href="https://github.com/git-sajib/my-ecommerce">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=my-ecommerce&theme=tokyonight&hide_border=true" width="49%" alt="E-Commerce System" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=my-ecommerce&theme=tokyonight&hide_border=true" width="49%" alt="E-Commerce Project" />
   </a>
   <a href="https://github.com/git-sajib/Bank_Management_System">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=git-sajib&repo=Bank_Management_System&theme=tokyonight&hide_border=true" width="49%" alt="Bank Management System" />
@@ -82,7 +82,7 @@ developer:
 ### 📈 Automated GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=git-sajib&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=git-sajib&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=git-sajib&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
