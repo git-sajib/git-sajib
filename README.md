@@ -101,13 +101,13 @@ developer:
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=git-sajib&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_rank=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=git-sajib&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=git-sajib&layout=compact&count_private=true&langs_count=10&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-sajib&theme=react-dark&hide_border=true" width="99%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-sajib&theme=react-dark&hide_border=true&area=true" width="99%" alt="Activity Graph" />
 </div>
 
 ---
